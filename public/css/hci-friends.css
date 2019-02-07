@@ -1,4 +1,8 @@
 /* applies to anything of class "example-class-selector" */
+.friend{
+	max-width: 150px;
+}
+
 .example-class-selector {
 	margin-top: 2em;
 }
